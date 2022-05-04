@@ -10,7 +10,7 @@ namespace MyWindowsService
     static class Program
     {
         /// <summary>
-        /// The main entry point for the application.
+        /// The main entry point for the application. Test
         /// </summary>
         static void Main()
         {
